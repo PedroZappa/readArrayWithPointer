@@ -1,4 +1,4 @@
-# README.md: readArrayWithPointer.c
+# README: readArrayWithPointer.c
 
 ## Table of Contents
 - [Introduction](#introduction)
